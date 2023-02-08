@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "live-server .",
-    "build": "babel -w src --out-dir dist"
+    "compile": "babel -w src --out-dir dist"
   },
   "author": "",
   "license": "ISC",
